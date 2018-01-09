@@ -20,7 +20,7 @@ Boş topa farklı miktarlarda sıvılar enjekte ederek sert banyo zemininde hava
 Veri toplama aracı ise duvardaki fayans sayılarının kaç tanesine kadar yükseldiğini gözlemleyerek verileri not tutmak.
 # Bulgular (Results)
 # Gözlemler
- Farklı pinpon toplarına koyulan farklı miktarlar sonucu içi boş olan top farklı yönlere doğru hareket etti,yarısı suyla dolu olan top zıplamadı ve tamamen dolu olan top zıplayarak dümdüz yukarıya doğru hareket etti.
+ Farklı pinpon toplarına koyulan farklı miktarlar sonucu içi boş olan top farklı yönlere doğru hareket etti,yarısı suyla dolu olan top zıplamadı ve tamamen dolu olan top zıplayarak dümdüz yukarıya doğru hareket etti.Ayrıca içi su dolu olan pinpon topu zemine indiğinde direk duruyor ve içi boş olan pinpon topu zemine indiğinde yavaşlayarak aşamalı bir şekilde duruyor.
 
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
