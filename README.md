@@ -2,26 +2,10 @@
 # Özet (Abstract)
 Proje kısaca hafif bir topun (pinpon topu) yere atıldığında normal sekerken içine su doldurulduğunda sekerken yaşadığı değişim ve bu değişimin nedenleri hakkındadır.Biz proje için ilk olarak orta seviyede suyu pinpon topuna doldurup değişimleri gözleyeceğiz.Daha sonra bu değişimlerin nelere bağlı olduğunu anlamak için suyun miktarını, sıcaklığını, yoğunluğunu vs. değiştirip karşılaştırmalı deneyler yapacağız. Daha sonrasında ise su yerine kum, oyun hamuru gibi katı maddeler koyarak sıvı hareketliliğine bağlı bir değişim olup olmadığını öğrenmeye çalışacağız. En sonunda gözlemlerimizi not ederek projemiz için rapor oluşturacağız.
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Araştırmamızın amacı pinpon topunun içine enjekte edilen farklı miktarlarda sıvıların pinpon topunun zıplayışına ve hareketine nasıl etki ettiğini gözlemlemek.Alt amaç ise bunların yanı sıra farklı miktardaki,farklı cins ve yoğunluktaki sıvıların pinpon topunun yüksekliğine etkisini gözlemlemek.               
+
+#Kaynakça
+
 # Materyal ve Yöntem (Experimental Setup)
 
 Bu bölümde aşağıdaki kısımla
