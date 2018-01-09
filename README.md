@@ -13,9 +13,7 @@ Araştırmamızın amacı pinpon topunun içine enjekte edilen farklı miktarlar
 # Materyal ve Yöntem (Experimental Setup)
 
 # Malzemeler
-- Pinpon topu
-- Enjektör
-- Su
+İçlerine farklı miktarlarda sıvılar enjekte edileceği için 3 tane pinpon topu ve topların içine koyulacak sıvı olarak su ve suyu enjekte etmek için 1 tane enjektör.
 
 # Yöntem
 Boş topa farklı miktarlarda sıvılar enjekte ederek sert banyo zemininde havadan bırakılarak hareketlerini gözlemlemek.
