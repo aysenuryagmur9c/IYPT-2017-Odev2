@@ -5,7 +5,11 @@ Proje kısaca hafif bir topun (pinpon topu) yere atıldığında normal sekerken
 Araştırmamızın amacı pinpon topunun içine enjekte edilen farklı miktarlarda sıvıların pinpon topunun zıplayışına ve hareketine nasıl etki ettiğini gözlemlemek.Alt amaç ise bunların yanı sıra farklı miktardaki,farklı cins ve yoğunluktaki sıvıların pinpon topunun yüksekliğine etkisini gözlemlemek.               
 
 # Kaynakça
+1.Budiansky,B.1958. Sloshing of Liquids in Circular Canals and Spherical Tanks,0-58.
 
+2.Dodge,F.T.1968.National Aeronautics and Space Administration,0-34.
+
+3.Papaspyrou,S.2003.Refined Solutions of Externally Induced Sloshing in Half-Full Spherical Containers,0-11.
 # Materyal ve Yöntem (Experimental Setup)
 
 Bu bölümde aşağıdaki kısımla
