@@ -4,7 +4,7 @@ Proje kısaca hafif bir topun (pinpon topu) yere atıldığında normal sekerken
 # Giriş (Introduction)
 Araştırmamızın amacı pinpon topunun içine enjekte edilen farklı miktarlarda sıvıların pinpon topunun zıplayışına ve hareketine nasıl etki ettiğini gözlemlemek.Alt amaç ise bunların yanı sıra farklı miktardaki,farklı cins ve yoğunluktaki sıvıların pinpon topunun yüksekliğine etkisini gözlemlemek.               
 
-#Kaynakça
+# Kaynakça
 
 # Materyal ve Yöntem (Experimental Setup)
 
