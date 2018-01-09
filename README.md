@@ -16,6 +16,7 @@ Araştırmamızın amacı pinpon topunun içine enjekte edilen farklı miktarlar
 - Pinpon topu
 - Enjektör
 - Su
+Farklı pinpon toplarına koyulan farklı miktarlar sonucu yarısı suyla dolu olan top zıplamadı ve tamamen dlu olabn top zıpladı ve farklı yönlere doğru hareketler gözlemlendi.
 # Bulgular (Results)
 Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
 
